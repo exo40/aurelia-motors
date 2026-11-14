@@ -38,7 +38,7 @@ export default function Home() {
 
     <section id="accueil" className="hero">
       <div className="hero-copy"><p className="eyebrow">IMPORTATION AUTOMOBILE · CHINE → FRANCE</p><h1>Une autre idée de<br/><i>l’automobile.</i></h1><p className="hero-lead">Des véhicules sélectionnés en Chine, proposés en France avec un accompagnement humain, précis et transparent.</p><div className="hero-actions"><a className="btn btn-copper" href="#catalogue">Découvrir la sélection <ArrowRight size={16}/></a><a className="btn btn-ghost-light" href="#contact">Parler à un conseiller</a></div><div className="hero-meta"><span><strong>01</strong> Sélection sur mesure</span><span><strong>02</strong> Vérification documentée</span><span><strong>03</strong> Suivi jusqu'à la livraison</span></div></div>
-      <div className="hero-visual"><img src="https://www.datocms-assets.com/128969/1791289381-7x_facelift-3.jpg?auto=format%2Ccompress%2Cenhance&q=65&w=1440" alt="SUV électrique Zeekr de référence constructeur"/><div className="hero-caption"><span>01 / 10</span><span>Visuel constructeur · droits à confirmer</span></div></div>
+      <div className="hero-visual"><img src="https://www.datocms-assets.com/128969/1791289381-7x_facelift-3.jpg?auto=format%2Ccompress%2Cenhance&q=65&w=1440" alt="SUV électrique Zeekr de référence constructeur"/><div className="hero-caption"><span>01 / 16</span><span>Visuel constructeur · droits à confirmer</span></div></div>
     </section>
 
     <section className="trust-strip"><span>UNE APPROCHE SANS PROMESSE FACILE</span><div><ShieldCheck size={17}/> Documentation & transparence</div><div><Sparkles size={17}/> Sélection contemporaine</div><div><Phone size={17}/> Conseil humain</div></section>
