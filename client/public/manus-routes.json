@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Aurelia Motors France — Importateur automobile Chine-France"},{"path":"/vehicules/:slug","title":"Fiche véhicule — Aurelia Motors France"},{"path":"/admin","title":"Administration — Aurelia Motors France"},{"path":"/404","title":"Page introuvable — Aurelia Motors France"}]}
