@@ -1,5 +1,8 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "vite",
+  "buildCommand": "pnpm build:static",
+  "outputDirectory": "dist/public",
   "cleanUrls": true,
   "rewrites": [
     { "source": "/vehicules/:slug*", "destination": "/index.html" },
