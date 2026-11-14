@@ -5,8 +5,8 @@
   "outputDirectory": "dist/public",
   "cleanUrls": true,
   "rewrites": [
-    { "source": "/vehicules/:slug", "destination": "/index.html" },
-    { "source": "/admin", "destination": "/index.html" },
-    { "source": "/404", "destination": "/index.html" }
+    { "source": "/vehicules/:slug*", "destination": "/" },
+    { "source": "/admin", "destination": "/" },
+    { "source": "/404", "destination": "/" }
   ]
 }
